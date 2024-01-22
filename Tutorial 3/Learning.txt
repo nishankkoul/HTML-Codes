@@ -1,0 +1,11 @@
+The structure of HTML code is explained in this tutorial. There is header section which contains all the meta tags, along with the css stylesheet. The body section is the main component of the website which contains the content of the website. The body section also contains the javascript style sheet. This entire code is enclosed within html tags. 
+
+HOW TO PREVIEW YOUR WEBSITE ON MOBILE?
+
+Step 1 - Go to Windows Powershell or Command Prompt. Write the command - ipconfig
+Step 2 - Copy your IPv4 Address and go to vs code settings and search live preview
+Step 3 - Paste your copied address on Live Preview: Host IP
+Step 4 - Restart Your VS Code
+Step 5 - Ensure that your WiFi network is Private.
+Step 6 - Now see live preview of your website and copy the entire url and send it to your mobile phone
+Step 7 - Now, you can preview your website on mobile as well. 

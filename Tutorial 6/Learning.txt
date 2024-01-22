@@ -1,0 +1,9 @@
+In this tutorial, info is given about SEO and Core Web Vitals. The impact of these vitals' scores on users experience on the website. 
+
+We can generate report of these scores which is also called as Lighthouse report by going to inspect element and from thereon manouvering to Lighthouse option. 
+
+Setting width and height explicitly for images minimizes the loading time and can lead to good user experience. If these criteria are not set then the css will load late which will lead to cumulative layout shift resulting in clicking at a point where user was not actually intending to. 
+
+The title tag withing the head tags influences SEO ranking of the website. 
+
+meta desc is the Meta Description tag used by Search Engines to caegorize the type of content the website is delivering. 

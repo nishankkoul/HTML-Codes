@@ -1,0 +1,3 @@
+Id - An id is a unique identifier assigned to only one HTML within a page. It is often used for unique styling and javascript manipulations.
+
+Class - The class attribute lets you give same name to multiple HTML elements. That way, you can change their look and behavior all at once. Classes are not unique and can be assigned to multiple elements. They are generally used for applying the same styles to a group of elements.

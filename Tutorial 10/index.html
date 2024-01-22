@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media in HTML</title>
+</head>
+<body>
+    <h2>Video</h2>
+    <!-- src specifies the path to the video file -->
+    <!-- controls adds video controls like play, pause and volume -->
+    <!-- autoplay automatically starts playing the video when the page loads -->
+    <!-- loop repeats the video once it ends -->
+    <!-- muted mutes the video by default -->
+    <!-- poster is kind of a thumbnail of the video -->
+    <video src="video.mp4" height = "350" controls loop muted poster = "poster.png"></video>
+
+    <h2>Audio</h2>
+    <!-- Audio has mostly the same attributes as of a video -->
+    <!-- There is a preload attribute which should be read about on codewithharry.com -->
+    <audio src="audio.mp3" controls></audio>
+
+    <!-- Learn about svg elements -->
+    <h2>iFrames</h2>
+    <!-- An inline frame (iframe) is a HTML element that loads another HTML page within the document. -->
+    <iframe src="https://www.pesuacademy.com" height = "450" width="400"></iframe>
+
+    <h2>Embed YouTube Videos Using iFrame</h2>
+    <!-- We can take the iframe code when we click the share button on youtube-->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XZwBNDGuWGU?si=DxvgjxI1ZSP7mjm6&amp;start=791" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+</html>
